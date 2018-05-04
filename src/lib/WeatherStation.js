@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const DEVICE_ID = '2300400018473433383336337'
-const ACCESS_TOKEN = '700a05dc74b5726381e012d71da63927442ac0037'
+const ACCESS_TOKEN = '19ecbf6164d03dd03227bce71afb0089a0a0e6ea7'
 
 export default {
   getParticleVariable: function (name, cb) {
